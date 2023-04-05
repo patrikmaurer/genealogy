@@ -1,0 +1,4 @@
+{name: 'Philip J. Fry', origin: 'Earth',},
+{name: 'Turanga Leela', origin: 'Earth',},
+{name: 'Bender Bending Rodriguez', origin: 'Mars',},
+{name: 'Amy Wong',origin: 'Mars',},
