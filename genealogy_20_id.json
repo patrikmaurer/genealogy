@@ -3,24 +3,24 @@
     "id": "root",
     "text": "root",
     "parent": "",
-    "value": "16",
+    "value": "16"
   },
   {
     "id": "V",
     "text": "V",
     "parent": "root",
-    "value": "8",
+    "value": "8"
   },
   {
     "id": "M",
     "text": "M",
     "parent": "root",
-    "value": "8",
+    "value": "8"
   },
   {
     "id": "MM",
     "text": "MM",
     "parent": "M",
-    "value": "4",
+    "value": "4"
   },
 ]
