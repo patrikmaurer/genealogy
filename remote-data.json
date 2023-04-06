@@ -1,0 +1,50 @@
+[
+  {
+    "name": "Philip J. Fry",
+    "actor": "Billy West",
+    "job": "Delivery Boy",
+    "origin": "Earth",
+    "gender": "male",
+    "species": "Human"
+  },
+  {
+    "name": "Turanga Leela",
+    "actor": "Katey Sagal",
+    "job": "Captain",
+    "origin": "Earth",
+    "gender": "female",
+    "species": "Mutant Human"
+  },
+  {
+    "name": "Bender Bending Rodriguez",
+    "actor": "John DiMaggio",
+    "job": "Chef",
+    "origin": "Earth",
+    "gender": "male",
+    "species": "Robot"
+  },
+  {
+    "name": "Amy Wong",
+    "actor": "Lauren Tom",
+    "job": "Intern",
+    "origin": "Mars",
+    "gender": "Female",
+    "species": "Alien"
+  },
+  {
+    "name": "Doctor John Zoidberg",
+    "actor": "Billy West",
+    "job": "Staff Doctor",
+    "origin": "Decapod 10",
+    "gender": "male",
+    "species": "Alien"
+  },
+  {
+    "name": "Lord Nibbler",
+    "actor": "Frank Welker",
+    "job": "Ambassador to Earth",
+    "origin": "Eternium",
+    "gender": "male",
+    "species": "Alien"
+  }
+]
