@@ -1,6 +1,7 @@
-{
+[
+    {
     "id": 1,
-    "title": "Hello World",
+    "title": "Hello World1",
     "completed": false
 },
 {
@@ -8,3 +9,4 @@
     "title": "Hello World2",
     "completed": false
 }
+]
