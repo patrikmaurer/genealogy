@@ -1,0 +1,122 @@
+{
+// CHART CONFIG
+// -----------------------------
+//let chartConfig = {
+  type: 'sunburst',
+  backgroundColor: '#fff',
+  borderColor: '#000',
+  borderWidth: '1px',
+/*title: {
+    text: 'MySunburst'
+  },
+*/
+  options: {
+    slice: 0,
+    space: 0
+  },
+  plot: {
+    animation: {},
+    valueBox: {
+      text: '%data-vbtext',
+      color: '#000',
+      fontSize: '10px',
+      visible: null
+    },
+    tooltipText: '<span style=\'font-size:14px\'>%plot-text</span><br/>Size: %node-value <br>Child: %data-parent<br>Birth: %data-birth <br>Death: ',
+    alpha: 1,
+  },
+  plotarea: {
+    margin: '40px 0 0 0',
+    borderColor: '#000',
+    borderWidth: '1px',
+  },
+  tooltip: {
+    align: 'left',
+    thousandsSeparator: ','
+  },
+  scaleR: {
+    'ref-angle': 180,   //155
+    'aperture': 180     //230
+  },
+    //type: "sunburst",
+    title: {
+        text: "MySunburst Chart Loaded from External JSON File"
+    },
+    series: [
+{
+  id: 'root',
+  text: 'root',
+  parent: '',
+  value: 16
+}, {
+  id: 'M',
+  text: 'M',
+  parent: 'root',
+  value: 8
+}, {
+  id: 'V',
+  text: 'V',
+  parent: 'root',
+  value: 8
+}, {
+  id: 'VV',
+  text: 'VV',
+  parent: 'V',
+  value: 4
+}, {
+  id: 'VM',
+  text: 'VM',
+  parent: 'V',
+  value: 4
+}, {
+  id: 'MV',
+  text: 'MV',
+  parent: 'M',
+  value: 4
+}, {
+  id: 'MM',
+  text: 'MM',
+  parent: 'M',
+  value: 4
+}, {
+  id: 'VVV',
+  text: 'VVV',
+  parent: 'VV',
+  value: 2
+}, {
+  id: 'VMV',
+  text: 'VMV',
+  parent: 'VM',
+  value: 2
+}, {
+  id: 'VMM',
+  text: 'VMM',
+  parent: 'VM',
+  value: 2
+}, {
+  id: 'MVV',
+  text: 'MVV',
+  parent: 'MV',
+  value: 2
+}, {
+  id: 'MVM',
+  text: 'MVM',
+  parent: 'MV',
+  value: 2
+}, {
+  id: 'MMV',
+  text: 'MMV',
+  parent: 'MM',
+  value: 2
+}, {
+  id: 'MMM',
+  text: 'MMM',
+  parent: 'MM',
+  value: 2
+}, {
+  id: 'MMVM',
+  text: 'MMVM',
+  parent: 'MMV',
+  value: 1
+}]
+}
