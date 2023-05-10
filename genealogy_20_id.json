@@ -1,4 +1,4 @@
-{
+[{
     "id": "root",
     "text": "root",
     "parent": "",
@@ -21,4 +21,4 @@
     "text": "MM",
     "parent": "M",
     "value": "4"
-  }
+  }]
