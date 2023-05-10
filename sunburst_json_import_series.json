@@ -1,5 +1,4 @@
-{
-    series: [
+[
 {
   id: 'root',
   text: 'root',
@@ -75,5 +74,6 @@
   text: 'MMVM',
   parent: 'MMV',
   value: 1
-}]
 }
+]
+
