@@ -3,32 +3,32 @@
   "id": "root",
   "text": "root",
   "parent": "",
-  "value": 16
+  "value": "16"
 }, {
   "id": "M",
   "text": "M",
   "parent": "root",
-  "value": 8
+  "value": "8"
 }, {
   "id": "V",
   "text": "V",
   "parent": "root",
-  "value": 8
+  "value": "8"
 }, {
   "id": "VV",
   "text": "VV",
   "parent": "V",
-  "value": 4
+  "value": "4"
 }, {
   "id": "VM",
   "text": "VM",
   "parent": "V",
-  "value": 4
+  "value": "4"
 }, {
   "id": "MV",
   "text": "MV",
   "parent": "M",
-  "value": 4
+  "value": "4"
 }, {
   "id": "MM",
   "text": "MM",
@@ -38,41 +38,41 @@
   "id": "VVV",
   "text": "VVV",
   "parent": "VV",
-  "value": 2
+  "value": "2"
 }, {
   "id": "VMV",
   "text": "VMV",
   "parent": "VM",
-  "value": 2
+  "value": "2"
 }, {
   "id": "VMM",
   "text": "VMM",
   "parent": "VM",
-  "value": 2
+  "value": "2"
 }, {
   "id": "MVV",
   "text": "MVV",
   "parent": "MV",
-  "value": 2
+  "value": "2"
 }, {
   "id": "MVM",
   "text": "MVM",
   "parent": "MV",
-  "value": 2
+  "value": "2"
 }, {
   "id": "MMV",
   "text": "MMV",
   "parent": "MM",
-  "value": 2
+  "value": "2"
 }, {
   "id": "MMM",
   "text": "MMM",
   "parent": "MM",
-  "value": 2
+  "value": "2"
 }, {
   "id": "MMVM",
   "text": "MMVM",
   "parent": "MMV",
-  "value": 1
+  "value": "1"
 }
 ]
