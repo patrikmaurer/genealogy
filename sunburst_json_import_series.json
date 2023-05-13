@@ -9,12 +9,12 @@
   "parent": "root",
   "value": "8"
 }, {
-  "id": "V",
-  "text": "V",
-  "parent": "root",
+  "id": "V",
+  "text": "V",
+  "parent": "root",
   "value": "8"
 }, {
-  "id": "VV",
+  "id": "VV",
   "text": "VV",
   "parent": "V",
   "value": "4"
