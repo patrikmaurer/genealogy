@@ -45,4 +45,34 @@
     "text": "VVV",
     "parent": "VV",
     "value": "2"
+}, {
+  "id": "VMV",
+  "text": "VMV",
+  "parent": "VM",
+  "value": "2"
+}, {
+  "id": "VMM",
+  "text": "VMM",
+  "parent": "VM",
+  "value": "2"
+}, {
+  "id": "MVV",
+  "text": "MVV",
+  "parent": "MV",
+  "value": "2"
+}, {
+  "id": "MVM",
+  "text": "MVM",
+  "parent": "MV",
+  "value": "2"
+}, {
+  "id": "MMV",
+  "text": "MMV",
+  "parent": "MM",
+  "value": "2"
+}, {
+  "id": "MMM",
+  "text": "MMM",
+  "parent": "MM",
+  "value": "2"
  }]
