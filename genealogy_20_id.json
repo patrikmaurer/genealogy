@@ -16,12 +16,6 @@
     "parent": "root",
     "value": "8"
   },
-  {
-    "id": "MM",
-    "text": "MM",
-    "parent": "M",
-    "value": "4"
- }, 
  {
     "id": "VV",
     "text": "VV",
@@ -33,4 +27,23 @@
     "text": "VM",
     "parent": "V",
     "value": "4"
+ }, 
+ {
+    "id": "MV",
+    "text": "MV",
+    "parent": "M",
+    "value": "4"
+ },
+ {
+    "id": "MM",
+    "text": "MM",
+    "parent": "M",
+    "value": "4"
+ },
+ {
+    "id": "VVV",
+    "text": "VVV",
+    "parent": "VV",
+    "value": "2"
+ },
   }]
