@@ -1,15 +1,11 @@
 {
-// CHART CONFIG
-// -----------------------------
-//let chartConfig = {
   type: 'sunburst',
   backgroundColor: '#fff',
   borderColor: '#000',
   borderWidth: '1px',
-/*title: {
-    text: 'MySunburst'
+  title: {
+    text: 'MySunburst Chart Loaded from External JSON File'
   },
-*/
   options: {
     slice: 0,
     space: 0
@@ -38,11 +34,7 @@
     'ref-angle': 180,   //155
     'aperture': 180     //230
   },
-    //type: "sunburst",
-    title: {
-        text: "MySunburst Chart Loaded from External JSON File"
-    },
-    series: [
+  series: [
 {
   id: 'root',
   text: 'root',
