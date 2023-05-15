@@ -1,0 +1,54 @@
+[{
+    "id": "root",
+    "text": "root",
+    "parent": "",
+    "value": "16"
+  },
+  {
+    "id": "V",
+    "text": "V",
+    "parent": "root",
+    "value": "8"
+  },
+  {
+    "id": "M",
+    "text": "M",
+    "parent": "root",
+    "value": "8"
+  },
+ {
+    "id": "VV",
+    "text": "VV",
+    "parent": "V",
+    "value": "4"
+ }, 
+ {
+    "id": "VM",
+    "text": "VM",
+    "parent": "V",
+    "value": "4"
+ }, 
+ {
+    "id": "MV",
+    "text": "MV",
+    "parent": "M",
+    "value": "4"
+ },
+ {
+    "id": "MM",
+    "text": "MM",
+    "parent": "M",
+    "value": "4"
+ },
+ {
+    "id": "VVV",
+    "text": "VVV",
+    "parent": "VV",
+    "value": "2"
+ },
+ {
+    "id": "VVM",
+    "text": "VVM",
+    "parent": "VV",
+    "value": "2"
+ }]
