@@ -1,0 +1,17 @@
+id,label,parents,value
+root,root,,16
+V,V,root,8
+M,M,root,8
+VV,VV,V,4
+VM,VM,V,4
+MV,MV,M,4
+MM,MM,M,4
+VVV,VVV,VV,2
+VVM,VVM,VV,2
+VMV,VMV,VM,2
+VMM,VMM,VM,2
+MVV,MVV,MV,2
+MVM,MVM,MV,2
+MMV,MMV,MV,2
+MMV,MMV,MV,2
+MMVM,MMVM,MMV,1
