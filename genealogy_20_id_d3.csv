@@ -1,5 +1,4 @@
 ids,labels,parents,values
-root,root,,16
 V,V,root,8
 M,M,root,8
 VV,VV,V,4
